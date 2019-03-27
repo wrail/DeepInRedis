@@ -138,7 +138,9 @@ type和encoding的区别是：type展示的是最外层的形态，encoding掌�
 可以笼统的把Redis中的命令分为两种
 
 1. 通用型命令：如del，rename，type，object等等
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190326202111173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNjA1OTY4,size_16,color_FFFFFF,t_70)
+ 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190326202111173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNjA1OTY4,size_16,color_FFFFFF,t_70)
+
 2. 对象特有命令 
 
 如下操作

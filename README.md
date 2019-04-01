@@ -31,3 +31,6 @@
 
 # Redis（八）
 [Redis的AOF持久化](https://github.com/wrail/DeepInRedis/blob/master/%E6%B7%B1%E5%85%A5Redis%EF%BC%88%E5%85%AB%EF%BC%89.md)
+
+# Redis（九）
+[Redis事件](https://github.com/wrail/DeepInRedis/blob/master/%E6%B7%B1%E5%85%A5Redis%EF%BC%88%E4%B9%9D%EF%BC%89.md)

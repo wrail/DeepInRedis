@@ -48,3 +48,7 @@
 ## Redis（十一）
 
 [Redis服务器](https://github.com/wrail/DeepInRedis/blob/master/%E6%B7%B1%E5%85%A5Redis%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.md)
+
+## Reids(十二)
+
+[Redis的发布和订阅](https://github.com/wrail/DeepInRedis/blob/master/%E6%B7%B1%E5%85%A5Reids%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89.md)

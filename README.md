@@ -52,3 +52,6 @@
 ## Reids(十二)
 
 [Redis的发布和订阅](https://github.com/wrail/DeepInRedis/blob/master/%E6%B7%B1%E5%85%A5Reids%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89.md)
+
+## Reids（十三）
+[Redis中的事务](https://github.com/wrail/DeepInRedis/blob/master/深入Redis（十三）.md)

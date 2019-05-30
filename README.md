@@ -3,7 +3,7 @@
 
 
 
-
+## NOSql Redis是对Redis的知识和Redis相关知识的入门笔记
 
 ## Redis(一)
 
